@@ -1,16 +1,16 @@
 {
-	"name": "sindresorhus",
-	"version": "2.0.1",
-	"description": "The Sindre Sorhus CLI",
+	"name": "fk2000",
+	"version": "1.0.0",
+	"description": "The fk2000 CLI",
 	"license": "MIT",
-	"repository": "sindresorhus/sindresorhus",
+	"repository": "fk2000/fk2000",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"name": "fk2000",
+		"email": "fujiwarak@gmail.com",
+		"url": "fk2000.github.io"
 	},
 	"bin": {
-		"sindresorhus": "source/cli.js"
+		"fk2000": "source/cli.js"
 	},
 	"engines": {
 		"node": ">=8"
@@ -24,7 +24,7 @@
 	"keywords": [
 		"cli-app",
 		"cli",
-		"sindresorhus",
+		"fk2000",
 		"unicorns"
 	],
 	"dependencies": {
