@@ -1,6 +1,6 @@
-# sindresorhus [![Build Status](https://travis-ci.org/sindresorhus/sindresorhus.svg?branch=master)](https://travis-ci.org/sindresorhus/sindresorhus)
+# fk2000
 
-> The [Sindre Sorhus](https://sindresorhus.com) CLI
+> The [fk2000](https://fk2000.github.io) CLI
 
 <img src="screenshot.png" width="752">
 
@@ -10,16 +10,16 @@
 Install Node.js, then:
 
 ```
-$ npx sindresorhus
+$ npx fk2000
 ```
 
 
 ## Built with
 
 - [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
-- [terminal-image](https://github.com/sindresorhus/terminal-image) - Display images in the terminal
+- [terminal-image](https://github.com/fk2000/terminal-image) - Display images in the terminal
 
 
 ## License
 
-MIT © [Sindre Sorhus](https://sindresorhus.com)
+MIT © [fk2000](https://fk2000.github.io)
