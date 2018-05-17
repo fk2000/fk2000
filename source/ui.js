@@ -46,16 +46,6 @@ const items = [
 		label: 'Support my open source work',
 		url: 'https://www.patreon.com/fk2000'
 	},
-/*
-	{
-		label: 'Unicorns!',
-		async action() {
-			console.log(await terminalImage.file(path.join(__dirname, 'unicorn1.gif')));
-			console.log(await terminalImage.file(path.join(__dirname, 'unicorn2.gif')));
-			console.log(await terminalImage.file(path.join(__dirname, 'unicorn3.gif')));
-		}
-	},
-*/
 	// TODO: Add separator item here when https://github.com/vadimdemedes/ink-select-input/issues/4 is done
 	{
 		label: 'Quit',
