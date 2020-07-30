@@ -1,5 +1,13 @@
 # fk2000
 
+## status
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=fk2000&count_private=true&show_icons=true)
+
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&layout=compact)
+
+## CLI
+
 > The [fk2000](https://fk2000.github.io) CLI
 
 <img src="screenshot.png" width="752">
