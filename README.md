@@ -1,80 +1,50 @@
-# fk2000's CLI Tool
+<div align="center">
+  <img src="source/avatar.png" width="128" height="128" style="border-radius: 50%" />
+  <h1>fk2000's CLI Tool</h1>
+  <p>
+    <strong>The personal command-line interface for <a href="https://fk2000.github.io">fk2000</a></strong>
+  </p>
 
-Welcome to my profile! This repository contains the source code for my personal CLI.
+  <p>
+    <a href="https://www.npmjs.com/package/fk2000"><img src="https://img.shields.io/npm/v/fk2000.svg" alt="npm version"></a>
+    <a href="https://travis-ci.org/fk2000/fk2000"><img src="https://travis-ci.org/fk2000/fk2000.svg?branch=master" alt="Build Status"></a>
+    <a href="https://github.com/fk2000/fk2000/blob/master/license"><img src="https://img.shields.io/npm/l/fk2000.svg" alt="license"></a>
+  </p>
+</div>
 
-## GitHub Stats
+---
 
-<table>
-  <tr>
-    <td colspan="2">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://raw.githubusercontent.com/fk2000/fk2000/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://raw.githubusercontent.com/fk2000/fk2000/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://raw.githubusercontent.com/fk2000/fk2000/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://raw.githubusercontent.com/fk2000/fk2000/master/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://raw.githubusercontent.com/fk2000/fk2000/master/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=fk2000&count_private=true&show_icons=true" alt="GitHub Stats Card">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&layout=compact" alt="Top Languages Card (Compact layout)">
-    </td>
-  </tr>
-</table>
+Welcome! This is my digital business card that lives right in your terminal. I'm a consulting and infrastructure engineer who loves Ruby on Rails and building cool stuff.
 
-## CLI
+## 🚀 Quick Start
 
-> The [fk2000](https://fk2000.github.io) CLI
+No installation required! Just run this command with Node.js:
 
-This is a simple command-line tool that displays my profile information.
-
-<img src="screenshot.png" width="752">
-
-## Usage
-
-Install Node.js, then run the following command:
-
-```
-$ npx fk2000
+```bash
+npx fk2000
 ```
 
-## Built with
+## 📸 Preview
 
-- [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
-- [terminal-image](https://github.com/fk2000/terminal-image) - Display images in the terminal
+<p align="center">
+  <img src="screenshot.png" width="752" alt="CLI Screenshot">
+</p>
 
-## License
 
-MIT © [fk2000](https://fk2000.github.io)
+## 🛠️ Built With
 
-## Special Thanks
+*   [Ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
+*   [terminal-image](https://github.com/sindresorhus/terminal-image) - Display images in the terminal
+*   [meow](https://github.com/sindresorhus/meow) - CLI app helper
 
-- [![paypal.me/KentaFujiwara](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/KentaFujiwara) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+## 💖 Support
 
-Thanks! :heart:
+If you like what I do, consider supporting me:
+
+*   [![PayPal](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/KentaFujiwara) - Buy me a tea! 🍵
+
+---
+
+<div align="center">
+  MIT © <a href="https://fk2000.github.io">fk2000</a>
+</div>
