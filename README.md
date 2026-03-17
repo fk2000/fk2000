@@ -7,7 +7,6 @@
 
   <p>
     <a href="https://www.npmjs.com/package/fk2000"><img src="https://img.shields.io/npm/v/fk2000.svg" alt="npm version"></a>
-    <a href="https://travis-ci.org/fk2000/fk2000"><img src="https://travis-ci.org/fk2000/fk2000.svg?branch=master" alt="Build Status"></a>
     <a href="https://github.com/fk2000/fk2000/blob/master/license"><img src="https://img.shields.io/npm/l/fk2000.svg" alt="license"></a>
   </p>
 </div>
@@ -17,12 +16,24 @@
 ## 📊 GitHub Contributions & Stats
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/fk2000" alt="fk2000's Github Charts" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fk2000&count_private=true&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fk2000&layout=compact&theme=tokyonight" width="49%" />
+</p>
+
+### 🛠️ GitHub Profile Summary Cards
+
+<p align="center">
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fk2000&count_private=true&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fk2000&layout=compact&theme=tokyonight" width="49%" />
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
+</div>
+
+<div align="center">
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
 </div>
 
 ---
