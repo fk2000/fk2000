@@ -14,7 +14,9 @@
 ---
 
 ## 📊 GitHub Contributions & Stats
-
+<p align="center">
+  <img src="https://ghchart.rshah.org/fk2000" alt="fk2000's Github Charts" width="100%" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fk2000&count_private=true&show_icons=true&theme=tokyonight" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fk2000&layout=compact&theme=tokyonight" width="49%" />
