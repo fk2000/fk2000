@@ -24,19 +24,14 @@
 
 ### 🛠️ GitHub Profile Summary Cards
 
+<div align="center">
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos per language" />
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most commit language" />
+</div>
+
 <p align="center">
-  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive time" />
 </p>
-
-<div align="center">
-  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
-  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
-</div>
-
-<div align="center">
-  <img src="profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
-  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
-</div>
 
 ---
 
